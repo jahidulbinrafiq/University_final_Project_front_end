@@ -1,0 +1,10 @@
+.addService-style{
+    background: #FFFFFF;
+    border-radius: 20px;
+    width: 760px;
+    height: 360px;
+    margin-top: 25px;
+}
+input[type=text]{
+    margin-left: 10px;
+}

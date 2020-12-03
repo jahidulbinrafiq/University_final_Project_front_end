@@ -1,0 +1,9 @@
+.service-desgin:hover{
+    width: 300px;
+    height: 319px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 80px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    margin-left: 20px;
+    text-align:center
+}

@@ -1,0 +1,21 @@
+.background-clip-path{
+    height: 684.53px;
+    background:#FBD062;
+    clip-path: polygon(0 0, 100% 0, 99% 75%, 0 93%);
+}
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl{
+    margin-top: -27px;
+}
+.services-heading-style{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 43px;
+    letter-spacing: 0.396px;
+    color: #2D2D2D;
+    margin: 115px 0px 38px 0px;;
+}
+.service-word{
+    color: #7AB259;
+}
